@@ -1,0 +1,9 @@
+sku		product-name
+AL0506	=	AL0506
+AL0506B	=	AL0506 (4 pk)
+AL0506A	=	AL0506A
+1Q-NE9U-L6OZ	 = 	1Q-NE9U-L60Z
+7G-8630-8IUX	 = 	teste
+8X-7QPQ-LVV9	 = 	8u7yffg
+EH-C12T-UQIS	 = 	Miele
+UI-Z81T-JMXG	 = 	Dishwasher
