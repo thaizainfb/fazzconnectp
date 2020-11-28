@@ -56,8 +56,9 @@ def addsku(newSku):
     with open("c:/FazzConnect/sku-shortname.properties", 'a', newline='') as file:   
         
         newName = ""       
-        for sku in newSku:     
-            newName = input(sku[1] + ": ")                                 
+        for sku in newSku:    
+            print(sku[1])
+            newName = input(sku[0] + ": ")                                 
             file.write("\n" + sku[0] + "\t = \t" + newName)
         
         file.close()
